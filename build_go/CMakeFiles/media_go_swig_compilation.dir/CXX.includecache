@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chenzk/BaseLib/BaseLib/libvideoGo/libvideo.i
+libvideo.h
+/home/chenzk/BaseLib/BaseLib/libvideoGo/libvideo.h
+video_mix.h
+/home/chenzk/BaseLib/BaseLib/libvideoGo/video_mix.h
+h264_rtp.h
+/home/chenzk/BaseLib/BaseLib/libvideoGo/h264_rtp.h
+h264_decoder.h
+/home/chenzk/BaseLib/BaseLib/libvideoGo/h264_decoder.h
+h264_encoder.h
+/home/chenzk/BaseLib/BaseLib/libvideoGo/h264_encoder.h
+ffm_decoder.h
+/home/chenzk/BaseLib/BaseLib/libvideoGo/ffm_decoder.h
+libvideo.h
+/home/chenzk/BaseLib/BaseLib/libvideoGo/libvideo.h
+video_mix.h
+/home/chenzk/BaseLib/BaseLib/libvideoGo/video_mix.h
+h264_rtp.h
+/home/chenzk/BaseLib/BaseLib/libvideoGo/h264_rtp.h
+h264_decoder.h
+/home/chenzk/BaseLib/BaseLib/libvideoGo/h264_decoder.h
+h264_encoder.h
+/home/chenzk/BaseLib/BaseLib/libvideoGo/h264_encoder.h
+ffm_decoder.h
+/home/chenzk/BaseLib/BaseLib/libvideoGo/ffm_decoder.h
+

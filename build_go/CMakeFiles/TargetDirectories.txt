@@ -1,0 +1,6 @@
+/home/chenzk/BaseLib/BaseLib/libvideoGo/build_go/CMakeFiles/rebuild_cache.dir
+/home/chenzk/BaseLib/BaseLib/libvideoGo/build_go/CMakeFiles/edit_cache.dir
+/home/chenzk/BaseLib/BaseLib/libvideoGo/build_go/CMakeFiles/media_go_swig_compilation.dir
+/home/chenzk/BaseLib/BaseLib/libvideoGo/build_go/CMakeFiles/media_go.dir
+/home/chenzk/BaseLib/BaseLib/libvideoGo/build_go/CMakeFiles/media.dir
+/home/chenzk/BaseLib/BaseLib/libvideoGo/build_go/CMakeFiles/media_static.dir
